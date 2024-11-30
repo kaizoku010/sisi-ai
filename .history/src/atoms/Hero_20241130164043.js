@@ -33,7 +33,7 @@ function Hero() {
       ]}
       wrapper="span"
       speed={50}
-      style={{display: 'inline-block' }}
+      style={{display: 'inline-block', color:"#b902b9" }}
       repeat={Infinity}
     /></span></p>
 

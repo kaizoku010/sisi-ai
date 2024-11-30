@@ -58,7 +58,7 @@
     }
 
     .footer-top-right {
-        padding-top: 0rem !important;
+        padding-top: 4rem;
         text-align: left;
         padding-right: 8rem;
         padding-left: 3rem !important;
@@ -117,17 +117,18 @@
     ;
         flex-direction: column !important;
         gap: 10px;
-        padding-bottom: 1rem !important;
+        padding-bottom: 4rem;
         text-align: left;
     }
 
     .bottom-footer-text {
-        text-align: left !important;
+        text-align: left;
         color: #8a8a8a;
         font-size: 13px;
-        padding-left: 3rem !important;
+        padding-left: 3rem;
         line-height: 2;
-        margin-top: 2rem !important;
+        margin-top: 2rem;
+        padding-right: 8rem;
     }
 
     .home-inner-element {
@@ -274,8 +275,7 @@
 
         .logo {
             cursor: pointer;
-            height: 3.2rem !important;
-            width: 3.2rem !important;
+            width: 4rem !important;
         }
   
 

@@ -20,8 +20,7 @@ function Hero() {
         <p className="hero-description">
         VANTAGE: THE AI TOOL SUPERCHARGING RESEARCH AND ANALYSIS
         </p>
-        <p className="hero-heading">Empowering Africa to solve its toughest challenges with AI<br/><span className="seq-text">      
-            <TypeAnimation
+        <p className="hero-heading">Empowering Africa to solve its toughest challenges with AI<br/><span className="">        <TypeAnimation
       sequence={[
         // Same substring at the start will only be typed out once, initially
         '_innovative solutions',
@@ -33,7 +32,7 @@ function Hero() {
       ]}
       wrapper="span"
       speed={50}
-      style={{display: 'inline-block' }}
+      style={{ fontSize: '40px', display: 'inline-block', color:"#b902b9" }}
       repeat={Infinity}
     /></span></p>
 

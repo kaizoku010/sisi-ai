@@ -72,7 +72,7 @@ const HomeMain = ()=>{
 
     </div>
     <div className="call-to-action-text">
-<p className="socials-cta">Download the SISI AI brochure</p>
+<p className="socials-cta">Download the  brochure</p>
 <p className="socials-cta-2">Find out more about SISI AI</p>
 <button className="cta-button">WRITE TO US</button>
     </div>

@@ -1,0 +1,238 @@
+.mobile-header{
+    display: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .main-div{
+        width: 100% !important;
+
+    }
+
+    .our-team {
+        padding: 0rem !important;
+        background-color: #333;
+        font-family: Arial, sans-serif;
+    }
+
+    .team-heading{
+
+    }
+
+    .reach_out_section {
+        background-color: #282828;
+        height: 70vh;
+        padding-left: 7rem;
+        flex-direction: column !important;
+        padding-right: 7rem;
+        align-items: center;
+        display: flex;
+        gap: 20px;
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+    }
+
+    .link-list {
+        display: flex    ;
+        flex-direction: column !important;
+        gap: 10px;
+    }
+
+    .footer-top-left {
+        padding-left: 3rem !important;        padding-top: 4rem;
+        display: flex
+    ;
+        flex-direction: column !important;
+        gap: 10px;
+        padding-bottom: 4rem;
+        text-align: left;
+    }
+
+    .home-inner-element {
+        background-color: #282828;
+        height: 100vh;
+        align-items: center;
+        padding-left: 1rem !important;
+        align-content: center;
+        padding-top: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    .upsaler {
+        background-color: #333;
+        height: 100vh;
+        flex-direction: column;
+        padding-left: 1rem !important;
+        display: flex
+    ;
+        padding-right: 1rem !important;
+    }
+
+    .ata-section {
+        height: 100vh;
+        flex-direction: column !important;
+        display: flex
+    ;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0 1rem !important;
+        box-sizing: border-box;
+    }
+
+    .hero-content {
+        position: relative;
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 100%;
+        gap: 12rem;
+        flex-direction: column !important;
+        margin-top: 50px;
+        align-items: center;
+        display: flex
+    ;
+        z-index: 1;
+    }
+
+
+    .hero-section {
+        position: relative;
+        width: 100%;
+        height: 100% ;
+        /* overflow: hidden; */
+        justify-content: center;
+        display: flex
+    ;
+        align-items: center;
+        justify-content: flex-start;
+        color: white;
+        font-family: Arial, sans-serif;
+    }
+
+    .findout {
+        font-size: 12px !important;
+        width: 100% !important;
+        color: white;
+        text-align: center !important;
+        font-weight: 400;
+    }
+
+    .team-members {
+        display: flex;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .team-member {
+        flex-direction: column !important;
+    }
+
+    .member-content{
+
+    }
+    .member-name {
+        margin-bottom: 0.5rem;
+        color: #777;
+        margin-bottom: 0;
+        font-size: 26px;
+    }
+
+    .member-position{
+
+    }
+    .member-bio {
+        font-size: 14px !important;
+        line-height: 1.1 !important;
+        width: 100%;
+        color: #777;
+
+    }
+
+    .member-image{
+
+    }
+
+
+        .logo {
+            cursor: pointer;
+            width: 4rem !important;
+        }
+  
+
+    .coming-soon{
+
+    }
+
+    .view-teams-btn{
+
+    }
+    
+    .mobile-header{
+        width: 100% !important;
+        display: flex;
+        justify-content: space-between;
+    }
+    .header-inner-section{
+        display: none !important;
+    }
+
+    .hum-ic {
+        align-self: center;
+        width: 70px  !important;
+    }
+
+    .hum-div{
+        width: fit-content;
+    }
+
+    .drawer-content{
+        display: flex;
+        flex-direction: column;
+        text-align: left !important;
+    }
+
+
+    .member-image img {
+        width: 100% !important;
+        border-radius: 8px;
+        object-fit: cover;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .spacer{
+
+height: 5rem !important;
+
+    }
+
+    .cc-soon {
+        width: 74% !important;
+        margin-bottom: 3rem;
+    }
+
+    .coming-soo {
+        margin-top: -3px !important;
+        font-weight: 100 !important;
+        width: 46% !important;
+        margin-bottom: 0px;
+    }
+
+
+    .section-two {
+        width: 100% !important;
+        background-color: #282828;
+    }
+    
+    section {
+        scroll-snap-align: center;
+        width: 100% !important;
+    }
+
+
+}
+
+
+.spacer{
+    height: 0% ;
+}
