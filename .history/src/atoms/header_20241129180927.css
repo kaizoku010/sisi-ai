@@ -1,0 +1,29 @@
+.header {
+    background-color: white;
+    position: fixed;
+    display: flex;
+    width: -webkit-fill-available;
+    justify-content: space-between;
+    padding: 1rem;
+    right: 0;
+    right: 0;
+
+    top: 0;
+    z-index: 5;
+    width: 100%;
+}
+
+.logo{
+    width: 12%;
+}
+
+
+.menu-links{
+    display: flex;
+    gap: 10px;
+}
+
+.menu-links > li{
+    list-style: none;
+
+}

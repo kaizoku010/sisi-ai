@@ -1,0 +1,97 @@
+.mobile-header{
+    display: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .main-div{
+
+    }
+
+    .our-team {
+        padding: 0rem !important;
+        background-color: #333;
+        font-family: Arial, sans-serif;
+    }
+
+    .team-heading{
+
+    }
+
+    .team-members {
+        display: flex;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .team-member {
+        flex-direction: column !important;
+    }
+
+    .member-content{
+
+    }
+    .member-name {
+        margin-bottom: 0.5rem;
+        color: #777;
+        margin-bottom: 0;
+        font-size: 26px;
+    }
+
+    .member-position{
+
+    }
+    .member-bio {
+        font-size: 14px;
+        line-height: 1.1 !important;
+        width: 100%;
+        color: #777;
+
+    }
+
+    .member-image{
+
+    }
+
+    .logo {
+        width: 32% !important;
+        height: fit-content;
+        margin: 0px;
+        align-self: center;
+    }
+
+    .coming-soon{
+
+    }
+
+    .view-teams-btn{
+
+    }
+    
+    .mobile-header{
+        display: flex;
+        justify-content: space-between;
+    }
+    .header-inner-section{
+        display: none !important;
+    }
+
+    .hum-ic {
+        width: 8%;
+        height: 64%;
+        align-self: center;
+    }
+
+    .hum-div{
+        width: fit-content;
+    }
+
+    .drawer-content{
+        display: flex;
+        flex-direction: column;
+        text-align: left !important;
+    }
+
+    
+}

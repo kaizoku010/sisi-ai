@@ -1,0 +1,60 @@
+html{
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+ 
+
+section{
+    scroll-snap-align: center;
+    width: 100%;
+}
+
+button{
+        display: inline-block;
+        padding: 20px 35px;
+        border: 1px solid hsla(0, 0%, 100%, .35);
+        text-decoration: none;
+        color: #fff;
+        font-size: 13px;
+        color: #333;
+        font-weight: 600;
+        line-height: 1;
+        background-color: white;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        transition: all .2s ease-in-out;
+        cursor: pointer;
+    
+}
+
+.section-one{
+
+}
+
+.section-two{
+    
+    background-color: black;
+}
+
+.section-three{
+    height: 100vh;
+
+    background-color: red;
+
+}
+
+.main-div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #333;
+}
+
+
+.coming-soo {
+    font-weight: 100;
+    margin-top: -3px;
+    color: white !important;
+    margin-bottom: 0px;
+}

@@ -1,0 +1,20 @@
+.hero_extras{
+
+}
+
+.hero_extras_content{
+    display: flex;
+    padding: 120px 0;
+}
+
+.hec_title{
+    max-width: 1050px;
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.hec_span{
+   color: #10b19a;
+  
+}

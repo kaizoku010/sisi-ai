@@ -1,0 +1,126 @@
+.mobile-header{
+    display: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .main-div{
+
+    }
+
+    .our-team {
+        padding: 0rem !important;
+        background-color: #333;
+        font-family: Arial, sans-serif;
+    }
+
+    .team-heading{
+
+    }
+
+    .team-members {
+        display: flex;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .team-member {
+        flex-direction: column !important;
+    }
+
+    .member-content{
+
+    }
+    .member-name {
+        margin-bottom: 0.5rem;
+        color: #777;
+        margin-bottom: 0;
+        font-size: 26px;
+    }
+
+    .member-position{
+
+    }
+    .member-bio {
+        font-size: 14px !important;
+        line-height: 1.1 !important;
+        width: 100%;
+        color: #777;
+
+    }
+
+    .member-image{
+
+    }
+
+
+        .logo {
+            cursor: pointer;
+            width: 4rem !important;
+        }
+  
+
+    .coming-soon{
+
+    }
+
+    .view-teams-btn{
+
+    }
+    
+    .mobile-header{
+        width: 100% !important;
+        display: flex;
+        justify-content: space-between;
+    }
+    .header-inner-section{
+        display: none !important;
+    }
+
+    .hum-ic {
+        align-self: center;
+        width: 70px  !important;
+    }
+
+    .hum-div{
+        width: fit-content;
+    }
+
+    .drawer-content{
+        display: flex;
+        flex-direction: column;
+        text-align: left !important;
+    }
+
+
+    .member-image img {
+        width: 100% !important;
+        border-radius: 8px;
+        object-fit: cover;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .spacer{
+
+height: 5rem !important;
+
+    }
+
+    .cc-soon {
+        width: 74% !important;
+        margin-bottom: 3rem;
+    }
+
+    .coming-soo {
+        margin-top: -3px !important;
+        font-weight: 100 !important;
+        width: 46% !important;
+        margin-bottom: 0px;
+    }
+}
+
+
+.spacer{
+    height: 0% ;
+}

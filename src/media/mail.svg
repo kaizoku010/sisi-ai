@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 54 62" style="enable-background:new 0 0 54 62;">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000160884500155014805590000000209230300880245676_);}
+	.st1{fill:none;stroke:#ffffff;stroke-width:8;stroke-miterlimit:50;}
+	.st2{fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:50;}
+</style>
+<g>
+	<g transform="translate(-102 -7522)">
+		<g>
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_1_" x="102" y="7548" width="54" height="36"/>
+					</defs>
+					<clipPath id="SVGID_00000092425240334484840900000009756528507313544341_">
+						<use xlink:href="#SVGID_1_" style="overflow:visible;"/>
+					</clipPath>
+					<g style="clip-path:url(#SVGID_00000092425240334484840900000009756528507313544341_);">
+						<path id="rbima" class="st1" d="M102,7584v-36h54v36H102z"/>
+					</g>
+					<use xlink:href="#SVGID_1_" style="overflow:visible;fill:none;stroke:#ffffff;stroke-miterlimit:10;"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path id="rbimc" class="st2" d="M104.1,7550.2l25,18.8l25-18.8"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path id="rbimd_00000000937267315600502350000008018048063261124518_" class="st2" d="M129,7522"/>
+					<path id="rbimd_00000121249947392556016730000007510274209937521049_" class="st2" d="M129,7532.6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path id="rbime_00000091700767306638983820000013513871561039431058_" class="st2" d="M107,7526"/>
+					<path id="rbime_00000018214409635929748930000004478797136013773980_" class="st2" d="M112.1,7535.3"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path id="rbimf_00000109713131464476505820000003616030041275441570_" class="st2" d="M151.1,7526"/>
+					<path id="rbimf_00000141418096529867522730000017569985403099423106_" class="st2" d="M146,7535.3"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

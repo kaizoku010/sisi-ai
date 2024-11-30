@@ -1,0 +1,13 @@
+.frame-image{
+    width: 100%;
+}
+
+
+.pass-through {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .pass-through.visible {
+    opacity: 1;
+  }

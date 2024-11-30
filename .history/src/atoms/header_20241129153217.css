@@ -1,0 +1,12 @@
+.header-section{
+    background-color: white;
+    height: 2em;
+    position: fixed;
+    width: 100%;
+    padding: 2rem;
+}
+
+
+.menu-links{
+    display: flex;
+}

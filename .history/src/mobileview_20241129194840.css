@@ -1,0 +1,42 @@
+.mobile-header{
+    display: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .main-div{
+
+    }
+
+    .logo {
+        width: 32% !important;
+        height: fit-content;
+        margin: 0px;
+        align-self: center;
+    }
+
+    .coming-soon{
+
+    }
+
+    .view-teams-btn{
+
+    }
+    
+    .mobile-header{
+        display: flex;
+        justify-content: space-between;
+    }
+    .header-inner-section{
+        display: none !important;
+    }
+
+    .hum-ic {
+        width: 8%;
+        height: 64%;
+        align-self: center;
+    }
+
+    .hum-div{
+        width: fit-content;
+    }
+}

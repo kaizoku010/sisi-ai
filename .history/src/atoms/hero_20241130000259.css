@@ -1,0 +1,112 @@
+.hero-section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+
+  .cc-soon {
+    width: 21%;
+}
+  
+  .hero-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    /* z-index: -2; */
+    display: block;
+    background: none;
+  }
+  
+  .gradient-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(300deg, rgba(0, 232, 200, 0.6) 0%, rgba(0, 232, 200, 0) 45%), linear-gradient(300deg, rgba(0, 232, 200, 0.6) 0%, rgba(0, 232, 200, 0) 80%), linear-gradient(0deg, rgba(51, 51, 51, 0.7) 100%, rgba(51, 51, 51, 0.7) 100%);
+  }
+  
+  .hero-content {
+    position: relative;
+    max-width: 600px;
+    margin-left: 10%;
+    display: flex;
+    z-index: 1;
+  }
+  
+  .hero-heading {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-description {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .hero-button {
+    display: inline-flex;
+    align-items: center;
+    background: rgba(148, 0, 211, 0.8);
+    border: none;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.3s ease;
+  }
+  
+  .hero-button:hover {
+    background: rgba(148, 0, 211, 1);
+  }
+  
+  .arrow-icon {
+    margin-left: 0.5rem;
+    font-size: 1.2rem;
+  }
+  
+  .info-box {
+    margin-top: 2rem;
+    padding: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    font-size: 1rem;
+  }
+  
+
+  .coming-soon{
+color: red;
+display: none;
+  }
+
+  .cc-soon{
+
+  }
+
+  .view-teams-btn{
+    margin-top: 2%;
+  }
+
+
+  .hero-content-left{
+    display: flex;
+    f
+
+  }
+
+  .hero-content-right{
+    background-color: red;
+    height: 200px;
+    width: 50%;
+  }

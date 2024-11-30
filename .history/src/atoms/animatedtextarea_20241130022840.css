@@ -1,0 +1,65 @@
+.ata-section{
+display: flex;
+
+}
+
+
+.ata-section-right{
+display: flex;
+flex-direction: column;
+}
+
+.ata-section-left{
+
+}
+
+.ot_subtitle{
+
+}
+
+.ot_subs{
+
+}
+
+.ata-section {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Full viewport height */
+    width: 100%; /* Full width of the page */
+    box-sizing: border-box;
+    padding: 20px; /* Padding to ensure content doesn't touch edges */
+  }
+  
+  .ata-section-left,
+  .ata-section-right {
+    flex: 1; /* Each section takes up half the width */
+    max-width: 50%; /* Ensure no overflow */
+  }
+  
+  .ata-section-left {
+    text-align: left;
+    padding-right: 20px; /* Add some space between the two sections */
+  }
+  
+  .ata-section-right {
+    text-align: center; /* Center-align animated text in this section */
+  }
+  
+  .ot_subtitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #ffffff; /* Adjust as needed */
+  }
+  
+  .ot_subs {
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 1.6;
+  }
+  
+  .ata-section-right div {
+    width: 100%; /* Ensures animated text container doesn't overflow */
+  }
+  

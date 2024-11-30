@@ -1,0 +1,132 @@
+.ata-section{
+display: flex;
+
+}
+
+
+.ata-section-right{
+display: flex;
+flex-direction: column;
+}
+
+
+.ata-section {
+    display: flex;
+    justify-content: space-between; /* Add space between left and right sections */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Full viewport height */
+    width: 100%; /* Full width of the page */
+    padding: 0 7rem; /* Add horizontal padding for better spacing */
+    box-sizing: border-box; /* Ensure padding doesn't overflow */
+  }
+  
+  .ata-section-left {
+    flex: 1; /* Take up equal space with the right section */
+    text-align: left; /* Align text to the left */
+    max-width: 40%; /* Limit the width of the left section */
+  }
+  
+  .ata-section-right {
+    flex: 1; /* Take up equal space with the left section */
+    text-align: center; /* Center-align the animated text */
+    max-width: 40%; /* Limit the width of the right section */
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+  }
+  
+  .ot_subtitle {
+ 
+    font-size: 50px;
+    /* margin-bottom: 40px; */
+    font-weight: 400;
+    margin-bottom: 10px;
+    color: #ffffff; /* Adjust as needed */
+  }
+  
+  .ot_subs {
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1.6;
+    opacity: .5;
+  }
+  
+  .ata-section-right div {
+    color: #ffffff;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 18px;
+    width: 100%; /* Ensure the text container spans the full width */
+    overflow-wrap: break-word; /* Prevent text from overflowing */
+    text-align: center; /* Ensure the text is centered */
+  }
+  
+
+  .cut{
+    width: 100%;
+  }
+
+
+  .upsaler{
+    background-color: #333;
+    height: 100vh;
+    padding-left: 7rem;
+    display: flex;
+    padding-right: 7rem;
+  }
+
+
+  .upsaler-left{
+    align-content: center;
+    width: 100%;
+    text-align: left;
+  }
+
+  .upsaler-right{
+    width: 100%;
+
+  }
+
+  .upsaler-title-one{
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1.6;
+    opacity: .5;
+  }
+
+  .read_more{
+    display: inline-block;
+    padding: 20px 35px;
+    border: 1px solid hsla(0, 0%, 100%, .35);
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    background-color: transparent;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+  }
+
+
+  .cross-cutting-text{
+    font-size: 50px;
+    max-width: 450px;
+    margin-bottom: 40px;
+    color: white;
+    font-weight: 400;
+  }
+
+  .cct-subText{
+    color: white;
+    font-size: 16px;
+    margin-bottom: 4rem;
+  }
+
+
+  .bars{
+    width: 60%;
+}

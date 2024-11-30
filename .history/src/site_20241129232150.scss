@@ -1,0 +1,41 @@
+html{
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+ 
+
+section{
+    scroll-snap-align: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.section-one{
+    background-color: red;
+}
+
+.section-two{
+    background-color: black;
+}
+
+.section-three{
+    width: 100%;
+    background-color: red;
+}
+
+.main-div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #333;
+}
+
+
+.coming-soo {
+    font-weight: 100;
+    margin-top: -3px;
+    color: white !important;
+    margin-bottom: 0px;
+}

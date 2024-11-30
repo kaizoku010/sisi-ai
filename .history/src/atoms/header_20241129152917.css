@@ -1,0 +1,7 @@
+.header-section{
+    background-color: purple;
+    height: 5em;
+    position: fixed;
+    width: 100%;
+    padding: 2rem;
+}

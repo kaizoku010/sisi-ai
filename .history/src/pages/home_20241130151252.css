@@ -1,0 +1,37 @@
+.view-teams-btn{
+    background: #8903ff !important;
+    color: white;
+
+}
+
+.reach_out_section{
+    background-color: #282828;
+    height: 70vh;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    display: flex;
+    gap: 20px;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+
+.call-to-action{
+    width: 80%;
+    text
+    height: 100%;
+    padding: 55px;
+    background-color: #222;
+}
+
+.call-to-action-text{
+    height: 80%;
+    border: 5px solid #00e8c8;
+padding: 55px;
+    width: 100%;
+}
+
+.findout{
+    font-size: 35px;
+    color: white;
+    font-weight: 400;
+}

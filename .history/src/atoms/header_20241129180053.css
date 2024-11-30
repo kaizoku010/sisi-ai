@@ -1,0 +1,17 @@
+.header{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    padding: 1rem;
+}
+
+
+.menu-links{
+    display: flex;
+    gap: 10px;
+}
+
+.menu-links > li{
+    list-style: none;
+
+}
