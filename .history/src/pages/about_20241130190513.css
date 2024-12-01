@@ -1,0 +1,12 @@
+.about-page{
+background-color: red;
+height: 100px;
+}
+
+
+.ant-collapse-header-text{
+    text-align: left !important;
+}
+.ant-collapse-content-box > p{
+    text-align: left !important;
+}

@@ -1,0 +1,50 @@
+.body-about{
+    /* height: 100vh; */
+}
+
+.about-page{
+background-color: red;
+}
+
+
+.ant-collapse-header-text{
+    text-align: left !important;
+}
+.ant-collapse-content-box > p{
+    text-align: left !important;
+}
+
+
+.about-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    gap: 20px;
+    background-image: url("../media/man.jpg");
+}
+
+.left-about{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+
+}
+
+.right-about{
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+background-color: green;
+}
+
+.right-about-title {
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+    font-variant: all-small-caps;
+}

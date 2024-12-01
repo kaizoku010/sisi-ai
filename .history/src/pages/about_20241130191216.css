@@ -1,0 +1,18 @@
+.body-about{
+    height: 100vh;
+}
+
+.about-page{
+background-color: red;
+}
+
+
+.ant-collapse-header-text{
+    text-align: left !important;
+}
+.ant-collapse-content-box > p{
+    text-align: left !important;
+}
+
+
+.about-image
